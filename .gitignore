@@ -1,3 +1,6 @@
+# Scan hidden files for CLAUDE CODE
+!.*
+
 # macOS
 .DS_Store
 .AppleDouble
